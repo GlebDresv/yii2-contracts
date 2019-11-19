@@ -1,5 +1,5 @@
 {
-  "name": "gd/yii2-contracts",
+  "name": "warkeeper/yii2-contracts",
   "type": "library",
   "minimum-stability": "dev",
   "license": "MIT",
