@@ -6,7 +6,7 @@
  * Time: 5:16
  */
 
-namespace yii2_gd_contracts;
+namespace warkeeper\yii2_contracts;
 
 interface ILanguageHelper
 {

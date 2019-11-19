@@ -1,6 +1,6 @@
 <?php
 
-namespace yii2_gd_contracts;
+namespace warkeeper\yii2_contracts;
 
 /**
  * Interface BackendModel
